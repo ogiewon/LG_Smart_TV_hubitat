@@ -46,7 +46,7 @@ import groovy.json.JsonOutput
 import groovy.transform.Field
 
 metadata {
-	definition (name: "LG WebOS TV", namespace: "asj", author: "Andrew Stanley-Jones", importURL: "https://raw.githubusercontent.com/as-j/LG_Smart_TV_hubitat/master/LG_WebOS_TV_Driver.groovy")
+	definition (name: "LG WebOS TV", namespace: "asj", author: "Andrew Stanley-Jones", importUrl: "https://raw.githubusercontent.com/as-j/LG_Smart_TV_hubitat/master/LG_WebOS_TV_Driver.groovy")
 	{
 		capability "Initialize"
 		capability "TV"
